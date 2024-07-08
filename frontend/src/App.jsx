@@ -9,6 +9,7 @@ function App() {
   return (
     <>
     <Header/>
+    <main>Conteúdo</main>
     <Footer/>
     </>
   )
